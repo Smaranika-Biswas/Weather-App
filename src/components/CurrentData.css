@@ -1,0 +1,73 @@
+body {
+  display: block;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.cityBox {
+  height: 30px;
+}
+.fullbody {
+  overflow: hidden;
+}
+
+.total {
+  display: flex;
+  width: 600px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+.btn {
+  margin-top: 8px;
+  margin-left: 250px;
+}
+
+.headerName {
+  text-align: center;
+}
+
+.WeatherBox {
+  justify-content: center;
+  margin-top: 5px;
+  /* margin-right: 20px; */
+  width: 600px;
+  height: 320px;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weathers {
+  margin-left: 120px;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.weatherCondition {
+  margin-bottom: px;
+}
+
+.feels-Like {
+  margin-top: 20px;
+  margin-right: 120px;
+  font-size: 20px;
+}
+
+/* .table {
+  display: block;
+  width: 400px;
+} */
